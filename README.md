@@ -1,3 +1,3 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
+# Clean Energy Materials Modeling Lab [CEMMLab]
+## Department of Chemistry and Physics
+### PI. Juganta Roy, Ph.D
